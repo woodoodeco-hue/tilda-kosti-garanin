@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-10-28T15:55:34+03:00">
+	<shop>
+		<name>Orders</name>
+		<company>Test</company>
+		<url>http://new-orders.tilda.ws</url>
+		<platform>Tilda Publishing</platform>
+		<version>1.0</version>
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		<categories>
+			<category id="959044664592">All</category>
+			<category id="978255198412">Фарфор</category>
+			<category id="780059791532">Принты</category>
+		</categories>
+		<offers>
+		<offer id="272265722582">
+			<name>Тарелка «Pir Korolei»</name>
+			<vendor>Череп и кости</vendor>
+			<vendorCode>CB-PF-01-33</vendorCode>
+			<description>
+<![CDATA[
+Авторская серия из 33 экземпляров
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3264-3637-4566-b538-663737336461/70919628.jpg</picture>
+			<url>http://new-orders.tilda.ws/shop/tproduct/272265722582-tarelka-pir-korolei</url>
+			<count>33</count>
+			<price>210.00</price>
+			<oldprice>260.00</oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>978255198412</categoryId>
+			<dimensions>2.4/2.4/0.2</dimensions>
+		</offer>
+		<offer id="390844704182">
+			<name>Тарелка «Море спит»</name>
+			<vendor>Череп и кости</vendor>
+			<vendorCode>CB-PF-02-35</vendorCode>
+			<description>
+<![CDATA[
+Серия ограничена 35 экземплярами
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3462-6332-4631-a266-363032343533/90611391.jpg</picture>
+			<url>http://new-orders.tilda.ws/shop/tproduct/390844704182-tarelka-more-spit</url>
+			<count>35</count>
+			<price>220.00</price>
+			<oldprice>275.00</oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>978255198412</categoryId>
+			<dimensions>2.5/2.5/0.2</dimensions>
+		</offer>
+		<offer id="153514714902">
+			<name>Тарелка «Лунная трапеза»</name>
+			<vendor>Череп и кости</vendor>
+			<vendorCode>CB-PF-03-32</vendorCode>
+			<description>
+<![CDATA[
+Выполнено вручную, серия из 32
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3530-6531-4633-b133-306236333865/62475978.jpg</picture>
+			<url>http://new-orders.tilda.ws/shop/tproduct/153514714902-tarelka-lunnaya-trapeza</url>
+			<count>32</count>
+			<price>230.00</price>
+			<oldprice>280.00</oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>978255198412</categoryId>
+			<dimensions>2.3/2.3/0.2</dimensions>
+		</offer>
+		<offer id="268111071012">
+			<name>Тарелка «Последний ужин»</name>
+			<vendor>Череп и кости</vendor>
+			<vendorCode>CB-PF-04-30</vendorCode>
+			<description>
+<![CDATA[
+Тираж ограничен 30 экземплярами
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3930-6338-4632-b862-343038333535/84672334.jpg</picture>
+			<url>http://new-orders.tilda.ws/shop/tproduct/268111071012-tarelka-poslednii-uzhin</url>
+			<count>30</count>
+			<price>245.00</price>
+			<oldprice>295.00</oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>978255198412</categoryId>
+			<dimensions>2.6/2.6/0.2</dimensions>
+		</offer>
+		<offer id="147350011082">
+			<name>Тарелка «Золотой прах»</name>
+			<vendor>Череп и кости</vendor>
+			<vendorCode>CB-PF-05-31</vendorCode>
+			<description>
+<![CDATA[
+Ручная позолота, серия из 31 экземпляра
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3262-3831-4364-b862-393865376163/51385116.jpg</picture>
+			<url>http://new-orders.tilda.ws/shop/tproduct/147350011082-tarelka-zolotoi-prah</url>
+			<count>31</count>
+			<price>260.00</price>
+			<oldprice>320.00</oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>978255198412</categoryId>
+			<dimensions>2.5/2.5/0.2</dimensions>
+		</offer>
+		<offer id="225488109982">
+			<name>Принт «Молчи, море»</name>
+			<vendor>Череп и кости</vendor>
+			<vendorCode>CB-PR-01-27</vendorCode>
+			<description>
+<![CDATA[
+Лимитированная серия из 27 плакатов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6438-6239-4062-b837-623231306564/85383383.jpg</picture>
+			<url>http://new-orders.tilda.ws/shop/tproduct/225488109982-print-molchi-more</url>
+			<count>27</count>
+			<price>95.00</price>
+			<oldprice>115.00</oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>780059791532</categoryId>
+		</offer>
+		<offer id="121403706522">
+			<name>Принт «Прах и небо»</name>
+			<vendor>Череп и кости</vendor>
+			<vendorCode>CB-PR-02-29</vendorCode>
+			<description>
+<![CDATA[
+Тираж ограничен 29 экземплярами
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3538-6536-4439-b761-323633653437/66013875.jpg</picture>
+			<url>http://new-orders.tilda.ws/shop/tproduct/121403706522-print-prah-i-nebo</url>
+			<count>29</count>
+			<price>105.00</price>
+			<oldprice>130.00</oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>780059791532</categoryId>
+		</offer>
+		<offer id="549914346382">
+			<name>Принт «Танец костей»</name>
+			<vendor>Череп и кости</vendor>
+			<vendorCode>CB-PR-03-25</vendorCode>
+			<description>
+<![CDATA[
+Авторская печать на архивной бумаге
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6262-3032-4931-b665-396263356663/37794895.jpg</picture>
+			<url>http://new-orders.tilda.ws/shop/tproduct/549914346382-print-tanets-kostei</url>
+			<count>25</count>
+			<price>85.00</price>
+			<oldprice>105.00</oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>780059791532</categoryId>
+		</offer>
+		<offer id="581624770092">
+			<name>Принт «Всадник сна»</name>
+			<vendor>Череп и кости</vendor>
+			<vendorCode>CB-PR-04-33</vendorCode>
+			<description>
+<![CDATA[
+Коллекционная серия из 33 копий
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3962-6162-4630-b761-326139396239/51066452.jpg</picture>
+			<url>http://new-orders.tilda.ws/shop/tproduct/581624770092-print-vsadnik-sna</url>
+			<count>33</count>
+			<price>120.00</price>
+			<oldprice>150.00</oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>780059791532</categoryId>
+		</offer>
+		<offer id="175715101662">
+			<name>Принт «Ночная кость»</name>
+			<vendor>Череп и кости</vendor>
+			<vendorCode>CB-PR-05-28</vendorCode>
+			<description>
+<![CDATA[
+Серия из 28 копий, печать ручная
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3530-6439-4437-b066-656537343733/68542944.jpg</picture>
+			<url>http://new-orders.tilda.ws/shop/tproduct/175715101662-print-nochnaya-kost</url>
+			<count>28</count>
+			<price>88.00</price>
+			<oldprice>110.00</oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>780059791532</categoryId>
+		</offer>
+		</offers>
+	</shop>
+</yml_catalog>
